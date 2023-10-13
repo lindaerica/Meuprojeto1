@@ -16,3 +16,10 @@ Push:
 O push é usado para enviar as alterações locais para um repositório remoto.
 O comando git push é usado para atualizar o repositório remoto com as alterações que foram feitas na sua cópia local.
 Isso permite que outros colaboradores acessem suas alterações e mantém o repositório remoto atualizado
+
+Adicionando novos comentários no introducao.txt por Matheus 
+#PRÁTICA P02
+Para fazer um pull request via terminal, você precisa estar trabalhando em um repositório Git e ter permissões para criar
+pull requests no repositório de destino.
+
+
